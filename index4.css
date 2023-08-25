@@ -1,0 +1,11 @@
+.head-bar-right-part{
+    height: 30px;
+    width: 54px;
+}
+.head-bar-right-part>div{
+    margin: 0px 5px ;
+    padding: 6px 0px ;
+}
+.maincontnr-5 {
+    height: 447px;
+}

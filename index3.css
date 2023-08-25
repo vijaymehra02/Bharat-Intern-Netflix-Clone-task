@@ -1,0 +1,292 @@
+.in-box-h1-font {
+    font-size: 2rem;
+    font-weight: 700;
+}
+.in-box-p-font {
+    font-size: 1.125rem;
+    font-weight: 400;
+}
+
+
+/* first box  */
+.head-inbox-1 {
+    width: 96%;
+}
+.head-container {
+    height: 505px;
+}
+.head-container::before {
+    height: 505px;
+}
+.head-inbox {
+    height: 506px;
+}
+.head-inbox-1logo {
+    width: 60%;
+}
+.head-inbox-1logo img {
+    width: 109px;
+    height: auto; 
+}
+.head-bar-right-part{
+    width: 12%;
+}
+.head-icon{
+    width: 20%;
+}
+.head-bar-right-part{
+    height: 30px;
+    width: 14%;
+    padding: 0px;
+}
+.head-bar-right-part>div{
+    margin: 0px 5px ;
+    padding: 6px 0px ;
+}
+.head-inbox-1select {
+    font-size: 0.8rem;
+        width: 83%;
+        height: 30px;
+}
+.head-inbox-1btn {
+    height: 30px;
+    width: 16%;
+}
+.head-inbox-2{
+    margin-top: 0;
+    margin-bottom: 50px;
+}
+.head-inbox-2cont {
+    /* margin: 35px; */
+}
+.head-inbox-2p1 {
+    width: 70%;
+    margin-top: 0;
+    height:auto;
+}
+.head-inbox-2p2 {
+    box-sizing: border-box;
+    padding: 11px;
+    width: 100%;
+    line-height: 33px;
+}
+.head-inbox-2f-ii div input{
+width: 70%;
+}
+.head-inbox-2f {
+    width: 100%;
+    height: 57px;
+}
+.head-inbox-2f-ii{
+    display: block;
+}
+.head-inbox-2f-s {
+    width: 40%;
+}
+.head-inbox-2f input {
+    width: 100%;
+}
+.head-inbox-2f-b {
+    width: 40%;
+}   
+.head-inbox-2f button {
+    width: 100%
+}
+
+
+/* second box  */
+.incontnr-2 {
+    width: auto
+}
+.incontnr-2 {
+    display:block;
+    padding: 0;
+    width: 90%;
+}
+.incontnr-2l {
+    height: 185.4px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: auto;
+    width: 100%;
+    text-align: center;
+}
+.incontnr-2lh{
+ margin-bottom: 20px;
+}
+.insontnr-2r {
+    margin: auto;
+    width: 74%;
+    height: 100%;
+    margin-bottom: 0px;
+    padding-top: 50px;
+}
+.insontnr-2r img  {
+    width: 100%;
+    height: auto;
+    position: relative;
+    top: -35px;
+}
+
+.insontnr-2r video  {
+    height: auto;
+    width: 54%;
+    position: absolute;
+    left: 23%;
+    z-index: -1;
+    top:auto;
+}
+
+
+
+/* third container  */
+.incontnr-3 {
+ display: grid;
+ height: auto;
+ margin-bottom: 32px;
+}
+.incontnr-3l {
+    order: 2;
+    width: 100%;
+}
+.incontnr-3l-upper{
+    height: auto;
+}
+.upper1{
+    overflow: hidden;
+}
+.upper2 p{
+    font-size: 3vw;
+}
+.upper2 p a{
+    font-size: 3vw;
+}
+.upper3{
+    width: 25%;
+}
+.upper3img{
+    width: 100%;
+}
+.incontnr-3r {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    height: auto;
+    text-align: center;
+    margin: auto;
+    margin-top: 40px;
+}
+.incontnr-3l-ii{
+    margin-top:0;
+}
+.incontnr-3rp p {
+    height: auto;
+    margin-top: 0px;
+    margin-top: 17px;
+}
+.upper1 {
+    width: 25%;
+    overflow: hidden;
+}
+.upper1 img {
+    width: 63%;
+}
+
+/* 4th container  */
+.incontnr-4l-ii{
+    height: 155.4px;
+}
+.insontnr-4r{
+    position: relative;
+}
+.insontnr-4r img{
+     width: 99%;
+     height: auto;
+     position:static;
+     margin-top: 0px;
+}
+.cont-4videomain{
+    top: 22%;
+    left: 18%;
+    height: 44%;
+    z-index: -1;
+    position: absolute;
+    overflow: hidden;
+    width: 62%;
+}
+.cont-4videomain video{
+    position: static;
+    width: auto;
+    height: auto;
+}
+
+
+/* 5th container  */
+.maincontnr-5{
+   height: 540px;
+}
+.incontnr-5{
+    display: flex;
+    flex-direction: column;
+    height: 95%;
+}
+.incontnr-5l{
+    width: 99%;
+  order: 2;
+}
+.incontnr-5l>div{
+   margin: auto;
+   width: 100%;
+   margin-bottom: 0px;
+}
+.incontnr-5l>div img{
+   margin: auto;
+   width: 64%;
+   margin-left: 19%;
+}
+
+ 
+/* 6th container  */
+.incontnr-6f{
+    margin-bottom: 30px;
+    margin-top: -9.4px;
+}
+.maincontnr-6{
+    text-align: center;
+    margin-top: 20px;
+}
+.incontnr-6f-box2{
+    display: block;
+}
+.head-inbox-2f-s {
+    display:block;
+    height: 100%;
+    width: 80%;
+    margin-right: 0px;
+    text-align: center;
+    margin: auto;
+    border-radius: 4px;
+}
+.head-inbox-2f-b {
+    display: block;
+    height: 100%;
+    width: 200px;
+    margin: auto;
+    margin-top: 15px;
+    border-radius: 4px;
+    /* margin-bottom: 30px; */
+}
+.head-inbox-2f-b button{
+    border-radius: 4px;
+}
+
+/* 7th container  */
+.innercont-7h4{
+    width: 100%;
+    height: 44px;
+    padding: 12px 0;
+}
+
